@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "deck.gl": "^8.2.8",
-    "@deck.gl/carto": "^8.3.0-alpha.1",
+    "@deck.gl/carto": "^8.4.11",
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
     "react-map-gl": "^5.2.8",
